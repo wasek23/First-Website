@@ -12,4 +12,4 @@
 
 <br />
 
-### [Preview Site](https://wasek23.github.io/first-website/)
+### [Preview Project](https://wasek23.github.io/first-website/)
